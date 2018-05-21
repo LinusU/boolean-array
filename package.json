@@ -1,0 +1,10 @@
+{
+  "name": "boolean-array",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "LinusU/boolean-array",
+  "browser": "browser.js",
+  "engines": {
+    "node": ">6.6.0"
+  }
+}
